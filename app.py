@@ -11,7 +11,9 @@ from preprocess import check_and_run_preprocessing
 # Initialize the Dash app
 app = dash.Dash(__name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}])
 app.title = "Financial Report"
-server = app.server
+
+# Expose the server for Gunicorn to use
+server = app.server  # Gunicorn needs this to run the app
 
 # Layout of the app
 app.layout = html.Div([dcc.Location(id="url", refresh=False), html.Div(id="page-content")])
@@ -54,11 +56,12 @@ def run_dashboard():
         url = f"http://127.0.0.1:{port}"
         print(f"Dashboard will be available at {url}")
         webbrowser.open(url)  # Open the app in a browser
-        app.run_server(debug=False, use_reloader=False)  # Prevents Dash from restarting itself
+        app.run_server(debug=False, host="0.0.0.0", port=port)  # Use host="0.0.0.0" for external access
 
     except Exception as e:
         print(f"Error occurred during preprocessing or dashboard startup: {e}")
         sys.exit(1)  # Exit if there's an error
 
+# This ensures the app is only started when directly run.
 if __name__ == "__main__":
     run_dashboard()  # Start the entire process
