@@ -1,0 +1,3 @@
+year_to_analyze=2024
+current_month=11
+

@@ -1,0 +1,75 @@
+Activity,Region,Category,Location
+IPS,APAC,Office,Canberra
+IST,APAC,Office,Hanoi
+IST,APAC,Office,Hong Kong
+IST,APAC,R&D,Jakarta
+IST,APAC,SC,Karachi
+IST,APAC,SC,Kawasaki
+IST,APAC,SC,Kuala Lumpur
+IST,APAC,R&D,Makati
+IST,APAC,SC,Manila
+IPS,APAC,Manufacturing,Noida Biometric
+IST,APAC,Manufacturing,Noida Factory
+IST,APAC,HQ,Noida HO
+IST,APAC,Manufacturing,Shenzhen
+IPS,APAC,Office + R&D,Singapore
+IST,APAC,SC,Smithfield
+IST,APAC,Office,Tokyo
+IPS,EUROPE,R&D,Bochum
+IST,EUROPE,SC,Bucharest
+IST,EUROPE,SC,Budapest
+IST,EUROPE,Office,Roedovre
+IST,EUROPE,SC,Dijon
+IST,EUROPE,SC,Flintbek
+ISI,EUROPE,Manufacturing,Haarlem
+HoldCo,EUROPE,HQ,IDEMIA Head Office
+ISI,EUROPE,Manufacturing,JV Aleat Tirana
+IST,EUROPE,SC,Kobylka
+IST,EUROPE,R&D,Lodz
+IST,EUROPE,SC,Madrid
+IST,EUROPE,R&D,Malaga
+IST,EUROPE,R&D,Meyreuil
+IST,EUROPE,SC,Milan
+IPS,EUROPE,R&D,Osny
+ISI,EUROPE,Manufacturing,Ostrava
+IST,EUROPE,Data Center,Otopeni
+IST,EUROPE,R&D,Pessac
+IST,EUROPE,SC,Prague
+IST,EUROPE,SC,Riga
+IPS,EUROPE,Manufacturing,Saint-Etienne du Rouvray
+IST,EUROPE,SC,Sittard
+IST,EUROPE,R&D,Sophia
+IST,EUROPE,SC,Stavanger
+IST,EUROPE,SC,Strängnäs
+IST,EUROPE,SC,Tewkesbury
+IST,EUROPE,Manufacturing,Vitré
+IPS,EUROPE,Office,Wokingham
+ISI,LATAM,R&D,Bogota
+IST,LATAM,SC,Bogota SC
+IST,LATAM,Manufacturing,Cotia
+IST,LATAM,SC,Lima
+IST,LATAM,SC,Medelin
+ISI,LATAM,Office,Mexico DF
+IST,LATAM,SC,Mexico SC
+ISI,LATAM,R&D,Santiago
+IST,LATAM,Office,Sao Paulo
+IST,LATAM,Manufacturing,Yumbo
+IPS,MEA,Office,Abu Dhabi
+ISI,MEA,Office + R&D,Cairo
+IPS,MEA,R&D,Casablanca
+IST,MEA,SC,Dubai
+IST,MEA,SC,Limbro
+IST,MEA,SC,Riyadh
+IPS,NORAM,Office + R&D,Anaheim
+IPS,NORAM,Office,Bedford
+IPS,NORAM,Office,Brentwood
+IST,NORAM,SC,Chantilly
+IPS,NORAM,Office,Eden Prairie
+IST,NORAM,Manufacturing,Exton
+IPS,NORAM,Manufacturing,Harrisburg
+IPS,NORAM,Office,Fort Wayne
+IST,NORAM,SC,Los Angeles
+IPS,NORAM,Office,Oakville
+IPS,NORAM,Office,Reston
+IPS,NORAM,Manufacturing,Sacramento
+IPS,NORAM,Manufacturing,Springfield

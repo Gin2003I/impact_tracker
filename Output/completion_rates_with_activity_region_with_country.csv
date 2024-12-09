@@ -1,0 +1,75 @@
+Activity,Region,Category,Location,Environment,Health & Safety,Social,Grand Total,Year to Analyze,Site,country
+IPS,MEA,Office,Abu Dhabi,50%,0%,0%,17%,2024,Abu Dhabi,United Arab Emirates
+IPS,NORAM,Office + R&D,Anaheim,64%,0%,0%,21%,2024,Anaheim,United States of America
+IPS,NORAM,Office,Bedford,64%,0%,0%,21%,2024,Bedford,United States of America
+IPS,EUROPE,R&D,Bochum,93%,91%,100%,95%,2024,Bochum,Germany
+ISI,LATAM,R&D,Bogota,86%,82%,100%,89%,2024,Bogota,Colombia
+IST,LATAM,SC,Bogota SC,93%,91%,0%,61%,2024,Bogota SC,Colombia
+IPS,NORAM,Office,Brentwood,43%,0%,0%,14%,2024,Brentwood,United States of America
+IST,EUROPE,SC,Bucharest,86%,64%,100%,83%,2024,Bucharest,Romania
+IST,EUROPE,SC,Budapest,57%,73%,67%,66%,2024,Budapest,Hungary
+ISI,MEA,Office + R&D,Cairo,29%,0%,67%,32%,2024,Cairo,Egypt
+IPS,APAC,Office,Canberra,71%,64%,67%,67%,2024,Canberra,Australia
+IPS,MEA,R&D,Casablanca,64%,82%,100%,82%,2024,Casablanca,Morocco
+IST,NORAM,SC,Chantilly,0%,0%,0%,0%,2024,Chantilly,United States of America
+IST,LATAM,Manufacturing,Cotia,71%,91%,100%,87%,2024,Cotia,Brazil
+IST,EUROPE,SC,Dijon,86%,82%,100%,89%,2024,Dijon,France
+IST,MEA,SC,Dubai,0%,0%,0%,0%,2024,Dubai,United Arab Emirates
+IPS,NORAM,Office,Eden Prairie,64%,0%,0%,21%,2024,Eden Prairie,United States of America
+IST,NORAM,Manufacturing,Exton,64%,0%,0%,21%,2024,Exton,United States of America
+IST,EUROPE,SC,Flintbek,86%,82%,33%,67%,2024,Flintbek,Germany
+IPS,NORAM,Office,Fort Wayne,64%,0%,0%,21%,2024,Fort Wayne,United States of America
+ISI,EUROPE,Manufacturing,Haarlem,86%,82%,100%,89%,2024,Haarlem,Netherlands
+IST,APAC,Office,Hanoi,0%,0%,0%,0%,2024,Hanoi,Vietnam
+IPS,NORAM,Manufacturing,Harrisburg,86%,0%,0%,29%,2024,Harrisburg,United States of America
+IST,APAC,Office,Hong Kong,0%,0%,67%,22%,2024,Hong Kong,China
+HoldCo,EUROPE,HQ,IDEMIA Head Office,0%,0%,0%,0%,2024,IDEMIA Head Office,France
+ISI,EUROPE,Manufacturing,JV Aleat Tirana,0%,0%,0%,0%,2024,JV Aleat Tirana,Albania
+IST,APAC,R&D,Jakarta,0%,0%,0%,0%,2024,Jakarta,Indonesia
+IST,APAC,SC,Karachi,0%,0%,0%,0%,2024,Karachi,Pakistan
+IST,APAC,SC,Kawasaki,57%,0%,67%,41%,2024,Kawasaki,Japan
+IST,EUROPE,SC,Kobylka,36%,82%,33%,50%,2024,Kobylka,Poland
+IST,APAC,SC,Kuala Lumpur,50%,64%,0%,38%,2024,Kuala Lumpur,Malaysia
+IST,LATAM,SC,Lima,71%,64%,67%,67%,2024,Lima,Peru
+IST,MEA,SC,Limbro,86%,82%,100%,89%,2024,Limbro,South Africa
+IST,EUROPE,R&D,Lodz,57%,73%,0%,43%,2024,Lodz,Poland
+IST,NORAM,SC,Los Angeles,7%,9%,0%,5%,2024,Los Angeles,United States of America
+IST,EUROPE,SC,Madrid,43%,45%,33%,41%,2024,Madrid,Spain
+IST,APAC,R&D,Makati,0%,0%,0%,0%,2024,Makati,Makati
+IST,EUROPE,R&D,Malaga,0%,0%,33%,11%,2024,Malaga,Spain
+IST,APAC,SC,Manila,57%,55%,67%,59%,2024,Manila,Philippines
+IST,LATAM,SC,Medelin,71%,64%,0%,45%,2024,Medelin,Colombia
+ISI,LATAM,Office,Mexico DF,86%,82%,100%,89%,2024,Mexico DF,Mexico
+IST,LATAM,SC,Mexico SC,93%,91%,67%,83%,2024,Mexico SC,Mexico
+IST,EUROPE,R&D,Meyreuil,93%,91%,100%,95%,2024,Meyreuil,France
+IST,EUROPE,SC,Milan,79%,82%,100%,87%,2024,Milan,Italy
+IPS,APAC,Manufacturing,Noida Biometric,86%,82%,67%,78%,2024,Noida Biometric,India
+IST,APAC,Manufacturing,Noida Factory,71%,0%,67%,46%,2024,Noida Factory,India
+IST,APAC,HQ,Noida HO,0%,0%,0%,0%,2024,Noida HO,India
+IPS,NORAM,Office,Oakville,0%,0%,0%,0%,2024,Oakville,Canada
+IPS,EUROPE,R&D,Osny,86%,82%,100%,89%,2024,Osny,France
+ISI,EUROPE,Manufacturing,Ostrava,7%,82%,100%,63%,2024,Ostrava,Czech Republic
+IST,EUROPE,Data Center,Otopeni,0%,73%,67%,46%,2024,Otopeni,Romania
+IST,EUROPE,R&D,Pessac,0%,0%,0%,0%,2024,Pessac,France
+IST,EUROPE,SC,Prague,57%,82%,100%,80%,2024,Prague,Czech Republic
+IPS,NORAM,Office,Reston,64%,0%,0%,21%,2024,Reston,United States of America
+IST,EUROPE,SC,Riga,86%,82%,100%,89%,2024,Riga,Latvia
+IST,MEA,SC,Riyadh,7%,0%,33%,13%,2024,Riyadh,Saudi Arabia
+IST,EUROPE,Office,Roedovre,93%,91%,100%,95%,2024,Roedovre,Denmark
+IPS,NORAM,Manufacturing,Sacramento,57%,0%,0%,19%,2024,Sacramento,United States of America
+IPS,EUROPE,Manufacturing,Saint-Etienne du Rouvray,71%,82%,100%,84%,2024,Saint-Etienne du Rouvray,France
+ISI,LATAM,R&D,Santiago,86%,91%,100%,92%,2024,Santiago,Chile
+IST,LATAM,Office,Sao Paulo,71%,0%,100%,57%,2024,Sao Paulo,Brazil
+IST,APAC,Manufacturing,Shenzhen,71%,91%,100%,87%,2024,Shenzhen,China
+IPS,APAC,Office + R&D,Singapore,57%,55%,67%,59%,2024,Singapore,Singapore
+IST,EUROPE,SC,Sittard,86%,82%,100%,89%,2024,Sittard,Netherlands
+IST,APAC,SC,Smithfield,93%,91%,100%,95%,2024,Smithfield,Australia
+IST,EUROPE,R&D,Sophia,0%,0%,33%,11%,2024,Sophia,France
+IPS,NORAM,Manufacturing,Springfield,71%,0%,0%,24%,2024,Springfield,United States of America
+IST,EUROPE,SC,Stavanger,79%,91%,100%,90%,2024,Stavanger,Norway
+IST,EUROPE,SC,Strängnäs,86%,55%,33%,58%,2024,Strängnäs,Sweden
+IST,EUROPE,SC,Tewkesbury,71%,73%,33%,59%,2024,Tewkesbury,United Kingdom
+IST,APAC,Office,Tokyo,36%,27%,0%,21%,2024,Tokyo,Japan
+IST,EUROPE,Manufacturing,Vitré,43%,82%,0%,42%,2024,Vitré,France
+IPS,EUROPE,Office,Wokingham,86%,91%,67%,81%,2024,Wokingham,United Kingdom
+IST,LATAM,Manufacturing,Yumbo,71%,0%,0%,24%,2024,Yumbo,Colombia
